@@ -35,7 +35,7 @@ apt install ffmpeg -y
 apt install wget
 apt install imagemagick -y
 git clone https://github.com/fahad123-hub/R3DBOTV1.git
-cd 
+cd R3DBOTV1
 rm -r session.json
 node.
 ```  

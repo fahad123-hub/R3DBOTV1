@@ -12,7 +12,7 @@
 <a href="https://github.com/fahad123-hub"><img title="Author" src="https://img.shields.io/badge/Author-RED HACKER-red.svg?style=for-the-badge&logo=github"></a>
 
 </div>
----
+
 
 
 <div align="center">
@@ -20,11 +20,9 @@
 ### DEPLOY THROUGH HEROKU
 
 <a href="https://wizard-md-deployer.vercel.app/"><img align="center" src="https://i.postimg.cc/Dy0V64PR/IMG-20221008-071901.jpg" alt="Fork and deploy" height="50" width="200" /></a>
+
 </div>
 
----
-
-https://i.postimg.cc/Dy0V64PR/IMG-20221008-071901.jpg
 ### FOR TERMUX USER
 1. Type below given commands one by one in Termux.
 ```
